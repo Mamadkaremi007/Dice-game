@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581091469 source:d:\code blocks\course\dico game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
